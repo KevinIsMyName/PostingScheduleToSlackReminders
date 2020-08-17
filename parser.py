@@ -3,7 +3,7 @@ def is_date(line):
 
 remind_time = "10am"
 
-f_in = open("schedule.txt", "r")
+f_in = open("template.txt", "r")
 lines = f_in.readlines()
 for line in lines:
     if "event title" in line.lower():
