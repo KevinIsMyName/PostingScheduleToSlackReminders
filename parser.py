@@ -1,14 +1,40 @@
+#!/usr/bin/env python3
+# KevinIsMyName/PostingScheduleToSlackReminders/parser.py
+# Python 3.8.4
+
+# Imports
+from os import mkdir
+from os.path import isdir
+from os.path import join
+import shutil
+
+# Config
+source_f = "template.txt"
+remind_time = "10am"
+SLACK_REMINDERS_DIR = "SLACK_REMINDERS"
+EVENTS_ARCHIVE_DIR = "EVENTS_ARCHIVE"
+
+# Helper function
+
+
 def is_date(line):
     return len(line.split("/")) == 2
 
-remind_time = "10am"
 
-f_in = open("template.txt", "r")
+# Check if folders exist
+if not isdir(SLACK_REMINDERS_DIR):
+    mkdir(SLACK_REMINDERS_DIR)
+if not isdir(EVENTS_ARCHIVE_DIR):
+    mkdir(EVENTS_ARCHIVE_DIR)
+
+
+f_in = open(source_f, "r")
 lines = f_in.readlines()
 for line in lines:
     if "event title" in line.lower():
         event_title = line.lstrip("Event Title: ").strip()
-        f_out = open(event_title.strip() + ".txt", "w")
+        f_out = open(join(SLACK_REMINDERS_DIR,
+                          event_title.strip()) + "_slack.txt", "w")
     elif is_date(line.split(":")[0]):
         date = line.split(":")[0]
         posters = line.split(":")[1].rstrip().split("@")
@@ -19,9 +45,13 @@ for line in lines:
         for poster in posters:
             poster = poster.strip()
             print(
-                "/remind @" + poster + " \"Please make a post about " + event_title + " today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!\" "
-                                                                                      "at " + remind_time + " " + date)
+                "/remind @" + poster + " \"Please make a post about " + event_title +
+                " today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!\" "
+                "at " + remind_time + " " + date)
             f_out.write("/remind @" + poster + " \"Please make a post about " + event_title + " today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!\" "
-                                                                                      "at " + remind_time + " " + date + "\n")
+                        "at " + remind_time + " " + date + "\n")
 f_in.close()
 f_out.close()
+
+# Make copy of template to archive
+shutil.copy(source_f, join(EVENTS_ARCHIVE_DIR, event_title.strip()) + ".txt")
