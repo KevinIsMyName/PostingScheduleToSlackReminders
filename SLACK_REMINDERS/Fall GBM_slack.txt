@@ -1,0 +1,12 @@
+/remind @Kevin Wu "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/19
+/remind @Dylan Luong "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/19
+/remind @Kianna Ly "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/20
+/remind @Allen Cai "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/20
+/remind @Jason Ngov "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/21
+/remind @Emily Gian "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/21
+/remind @Tommy Nguyen "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/22
+/remind @Andy Chek "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/22
+/remind @Natasha Karnoto "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/23
+/remind @Christina Gian "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/23
+/remind @Viwing Zheng "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/24
+/remind @Jackie Guan "Please make a post about Fall GBM today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/24

@@ -1,0 +1,12 @@
+/remind @Kevin Wu "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/9
+/remind @Jackie Guan "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/9
+/remind @Andy Chek "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/10
+/remind @Christina Gian "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/10
+/remind @Allen Cai "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/11
+/remind @Emily Gian "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/11
+/remind @Jason Ngov "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/12
+/remind @Tommy Nguyen "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/13
+/remind @Kianna Ly "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/13
+/remind @Natasha Karnoto "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/14
+/remind @Viwing Zheng "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/15
+/remind @Dylan Luong "Please make a post about Dinnertime today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/15

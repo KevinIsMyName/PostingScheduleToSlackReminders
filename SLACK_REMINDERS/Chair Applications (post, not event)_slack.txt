@@ -1,0 +1,12 @@
+/remind @Kevin Wu "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/4
+/remind @Kianna Ly "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/4
+/remind @Emily Gian "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/5
+/remind @Tommy Nguyen "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/5
+/remind @Jackie Guan "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/6
+/remind @Christina Gian "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/6
+/remind @Viwing Zheng "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/7
+/remind @Allen Cai "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/7
+/remind @Jason Ngov "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/8
+/remind @Andy Chek "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/9
+/remind @Dylan Luong "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/10
+/remind @Natasha Karnoto "Please make a post about Chair Applications (post, not event) today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/11

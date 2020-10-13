@@ -1,0 +1,12 @@
+/remind @Emily Gian "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/16
+/remind @Kianna Ly "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/16
+/remind @Kevin Wu "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/17
+/remind @Allen Cai "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/17
+/remind @Jackie Guan "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/18
+/remind @Christina Gian "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/18
+/remind @Viwing Zheng "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/19
+/remind @Tommy Nguyen "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/19
+/remind @Jason Ngov "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/29
+/remind @Andy Chek "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 9/30
+/remind @Dylan Luong "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/1
+/remind @Natasha Karnoto "Please make a post about SASE Drexel going to SASENC2020 today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!" at 10am 10/2

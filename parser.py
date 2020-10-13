@@ -44,12 +44,11 @@ for line in lines:
             pass
         for poster in posters:
             poster = poster.strip()
-            print(
-                "/remind @" + poster + " \"Please make a post about " + event_title +
-                " today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!\" "
-                "at " + remind_time + " " + date)
-            f_out.write("/remind @" + poster + " \"Please make a post about " + event_title + " today. 1-3pm are recommended. Don't forget to check off this Slack reminder when complete!\" "
-                        "at " + remind_time + " " + date + "\n")
+            message = "/remind @" + poster + " \"Please make a post about " + \
+                str(event_title) + " today. 1-3pm are recommended. \" at " + \
+                str(remind_time) + " " + str(date)
+            print(message)
+            f_out.write(message + "\n")
 f_in.close()
 f_out.close()
 
