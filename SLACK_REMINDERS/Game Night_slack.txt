@@ -1,0 +1,12 @@
+/remind @Kevin "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 10/30
+/remind @Christina "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 10/30
+/remind @Natasha "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 10/31
+/remind @Viwing "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 10/31
+/remind @Dylan "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/1
+/remind @Kianna "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/2
+/remind @Emily "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/3
+/remind @Jackie "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/3
+/remind @Tommy "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/4
+/remind @Andy "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/4
+/remind @Allen "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/5
+/remind @Jason "Please make a post about Game Night today. 1-3pm are recommended. " at 10am 11/5
