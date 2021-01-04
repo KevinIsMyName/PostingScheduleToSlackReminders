@@ -1,0 +1,15 @@
+/remind @Kevin "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/23
+/remind @Su "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/23
+/remind @Viwing "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/24
+/remind @Andy "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/24
+/remind @Christina "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/25
+/remind @Kianna "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/29
+/remind @Allen "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/29
+/remind @Emily "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/30
+/remind @Jackie "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/30
+/remind @Dylan "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 12/1
+/remind @Sabrina "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 12/1
+/remind @Tarana "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 12/2
+/remind @Jason "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 12/2
+/remind @Natasha "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/3
+/remind @Joshua "Please make a post about End of Term Surveys today. 1-3pm are recommended. " at 10am 11/3

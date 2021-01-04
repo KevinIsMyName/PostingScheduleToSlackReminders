@@ -32,7 +32,7 @@ f_in = open(source_f, "r")
 lines = f_in.readlines()
 for line in lines:
     if "event title" in line.lower():
-        event_title = line.lstrip("Event Title: ").strip()
+        event_title = line.replace("Event Title: ", "").strip()
         f_out = open(join(SLACK_REMINDERS_DIR,
                           event_title.strip()) + "_slack.txt", "w")
     elif is_date(line.split(":")[0]):
@@ -45,7 +45,7 @@ for line in lines:
         for poster in posters:
             poster = poster.strip()
             message = "/remind @" + poster + " \"Please make a post about " + \
-                str(event_title) + " today. 1-3pm are recommended. \" at " + \
+                str(event_title) + " today. 11am-2pm are recommended.\" at " + \
                 str(remind_time) + " " + str(date)
             print(message)
             f_out.write(message + "\n")

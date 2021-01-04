@@ -1,0 +1,14 @@
+/remind @Kevin "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/5
+/remind @Su "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/5
+/remind @Jason "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/7
+/remind @Tarana "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/7
+/remind @Emily "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/11
+/remind @Kianna "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/11
+/remind @Dylan "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/13
+/remind @Allen "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/13
+/remind @Natasha "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/15
+/remind @Joshua "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/15
+/remind @Andy "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/19
+/remind @Thomas "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/19
+/remind @Christina "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/21
+/remind @Sabrina "Please make a post about Speed Friending today. 1-3pm are recommended." at 10am 1/21
