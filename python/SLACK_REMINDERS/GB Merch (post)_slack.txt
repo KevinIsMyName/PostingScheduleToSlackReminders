@@ -1,0 +1,16 @@
+/remind @Kevin "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 1/31
+/remind @Su "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 1/31
+/remind @Viwing "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 1/31
+/remind @Kianna "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/3
+/remind @Andy "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/3
+/remind @Emily "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/3
+/remind @Joshua "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/5
+/remind @Natasha "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/5
+/remind @Tarana "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/8
+/remind @Jason "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/8
+/remind @Dylan "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/8
+/remind @Sabrina "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/8
+/remind @Christina "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/10
+/remind @Jackie "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/10
+/remind @Allen "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/12
+/remind @Thomas "Please make a post about GB Merch (post) today. 11am-2pm are recommended." at 10am 2/12

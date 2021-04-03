@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # KevinIsMyName/PostingScheduleToSlackReminders/parser.py
+# https://github.com/KevinIsMyName/PostingScheduleToSlackReminders
 # Python 3.8.4
 
 # Imports
@@ -9,7 +10,7 @@ from os.path import join
 import shutil
 
 # Config
-source_f = "template.txt"
+source_f = "../template.txt"
 remind_time = "10am"
 SLACK_REMINDERS_DIR = "SLACK_REMINDERS"
 EVENTS_ARCHIVE_DIR = "EVENTS_ARCHIVE"

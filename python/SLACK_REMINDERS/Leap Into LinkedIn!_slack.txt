@@ -1,0 +1,16 @@
+/remind @Kevin "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 1/30
+/remind @Su "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 1/30
+/remind @Viwing "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 1/30
+/remind @Jason "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/1
+/remind @Dylan "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/1
+/remind @Tarana "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/1
+/remind @Natasha "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/3
+/remind @Joshua "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/3
+/remind @Jackie "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/3
+/remind @Kianna "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/3
+/remind @Andy "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/5
+/remind @Sabrina "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/5
+/remind @Emily "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/5
+/remind @Allen "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/7
+/remind @Christina "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/7
+/remind @Thomas "Please make a post about Leap Into LinkedIn! today. 11am-2pm are recommended." at 10am 2/7

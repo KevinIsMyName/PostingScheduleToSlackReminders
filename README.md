@@ -1,15 +1,23 @@
-# PostingScheduleToSlackReminders
+# [PostingScheduleToSlackReminders]()
+
 A basic parser that takes the SASE posting schedules and turns them into a Slack reminders, instead of writing them yourself
 
 Here's an example template.txt
+
 ```
-Event Title: Speed Friending
+Event Title: S21 GBM
 Schedule:
-1/5: @Kevin @Su 
-1/7: @Jason @Tarana
-1/11: @Emily @Kianna
-1/13: @Dylan @Allen
-1/15: @Natasha @Joshua
-1/19: @Andy @Thomas
-1/21: @Christina @Sabrina
+3/26: @Kevin @Su @Viwing
+3/28: @Tarana @Joshua @Jackie
+3/30: @Emily @Sabrina @Christina @Thomas
+3/31: @Andy @Jason @Dylan
+4/1: @Allen @Natasha @Kianna
 ```
+
+These characters are reserved, thus you must NOT use these in your template.txt
+
+- :
+- "
+- \
+- /
+- @
